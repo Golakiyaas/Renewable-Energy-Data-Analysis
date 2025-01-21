@@ -1,6 +1,6 @@
 # 🔋 Renewable Energy Data Analysis - Using PowerBI
 
-This project uses **PowerBI** to analyze and visualize detailed information about various renewable energy systems. The dataset includes data on installed capacity, energy production, consumption, storage, investment, and environmental impact.
+This project uses **PowerBI** to analyze and visualize detailed information about various renewable energy systems. The dataset includes data on installed capacity, energy production, consumption, storage, investment, and environmental impact. The project also integrates advanced methods like **Measure-Correlate-Predict (MCP)** for enhanced long-term wind resource analysis.
 
 🔗 [Link to the dataset - Kaggle](https://www.kaggle.com/datasets/girumwondemagegn/dataset-for-renewable-energy-systems)
 
@@ -16,6 +16,7 @@ This dashboard aims to provide a comprehensive overview for useful research and 
 - 🌍 **Pollution Index**: Evaluates the environmental impact of renewable energy systems.
 - ⚡ **Capacity Analysis**: Compares the difference between minimum and average installed capacities.
 - 📊 **Conditionally Formatted Data View**: Provides a tabular view of data with conditional formatting to highlight key values.
+- 🌬️ **Wind Resource Analysis with MCP**: Implements **Measure-Correlate-Predict (MCP)** methods to assess long-term wind energy potential by correlating short-term wind data with long-term climatological information, enhancing the precision of resource forecasting.
 
 ---
 
@@ -31,7 +32,7 @@ To get started with this project, follow the steps below to explore the dashboar
 
 ## 🎬 Demo
 
-[🔋 Renewable Energy Data Analysis - Demo Video](file://C:/Users/achyu/Videos/Screen%20Recordings/Renewble.Energy.Analysis.mp4)
+[🔋 Renewable Energy Data Analysis - Demo Video](https://github.com/user-attachments/assets/2a4bdfdf-26f4-4551-99ba-8b27650954a0)
 
 ---
 
@@ -82,6 +83,3 @@ This dataset contains detailed information about various renewable energy system
 ---
 
 Feel free to open an issue or submit a pull request if you have suggestions for improvements or new features!
-
-
----
